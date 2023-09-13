@@ -1,0 +1,31 @@
+{
+    "companyName": "Hd Dental",
+    "slogan": [
+      "WHERE YOUR SMILE ISN'T GREAT",
+      "UNTIL IT'S STRAIGHT"
+    ],
+    "locationPhonePairs": [
+      { "location": "Shelby Township", "phone": "586-884-0795", "mapsLink": "https://goo.gl/maps/NecBKxA7o24x69cW6" },
+      { "location": "Novi", "phone": "248-926-0601", "mapsLink": "https://www.google.com/maps/place/Novi" },
+      { "location": "Rochester Hills", "phone": "248-963-0080", "mapsLink": "https://www.google.com/maps/place/Rochester+Hills" }
+    ],
+    "doctors": [
+        {
+            "name": "Dr. John B Doe",
+            "explanation": "A leading expert in cardiology with over 20 years of experience."
+        },
+        {
+            "name": "Dr. Jane Smith",
+            "explanation": "A renowned pediatrician known for her patient-centric approach."
+        },
+        {
+            "name": "Dr. Robert Brown",
+            "explanation": "A prominent neurologist with a focus on innovative treatments."
+        },        
+        {
+            "name": "Dr. Robert Brown",
+            "explanation": "A prominent neurologist with a focus on innovative treatments."
+        }
+    ],
+    "embedLink": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d93868.83288848856!2d-83.0907562!3d42.6740468!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824e7533379692f%3A0x3a0c536acf561dc1!2sStraight%20Smiles%20Orthodontics%20-%20Nicholas%20Rafaill%2C%20DDS!5e0!3m2!1sen!2sus!4v1694573375743!5m2!1sen!2sus"
+}
