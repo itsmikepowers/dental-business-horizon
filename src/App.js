@@ -19,12 +19,15 @@ import Team from './Components/Team';
 import Why from './Components/Why';
 import Doctors from './Components/Doctors';
 import Location from './Components/Location';
+import Chatbot from './Components/Chatbot';
 
 function App() {
+  
   return (
     <ChakraProvider theme={theme}>
       <Provider store={store}>  {/* <-- Wrap your app with Provider component */}
         <Router>
+          <Chatbot />
           <Header />
           <Routes>
             <Route path="/" element={

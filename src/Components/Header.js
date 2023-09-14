@@ -45,7 +45,7 @@ function Header() {
       color="white"
       position="sticky" 
       top={0} 
-      zIndex={100}
+      zIndex={15}
       background="white"
       boxShadow="0px 1px 30px rgba(0, 0, 0, 0.2)"
     >
